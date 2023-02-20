@@ -44,7 +44,7 @@ body{
 .current-info .others{
     display: flex;
     flex-direction: column;
-    background:linear-gradient(80deg,#0703fa, transparent);
+    background:linear-gradient(80deg,#7474bd, transparent);
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
@@ -55,7 +55,7 @@ body{
     justify-content: space-between;
 }
 .future-forecast{
-    background:linear-gradient(80deg,#0703fa, transparent);
+    background:linear-gradient(80deg,#7474bd, transparent);
     padding: 20px;
     position: fixed;
     bottom: 0;
