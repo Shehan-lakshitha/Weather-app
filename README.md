@@ -32,6 +32,9 @@ All contributions are kindly welcome.
 <a href="https://instagram.com/s_heha_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_heha_n" height="30" width="40" /></a>
 </p>
 
+## FeedBack
+All feedback all kindly welcome through shehanlaksh@gmail.com.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
