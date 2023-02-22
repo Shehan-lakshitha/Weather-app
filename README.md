@@ -18,7 +18,7 @@ https://github.com/Shehan-lakshitha/Weather-app.git
 
 ## Authors
 
--[Shehan Lakshith](
+- [Shehan Lakshitha](https://github.com/Shehan-lakshitha)
 
 
 
