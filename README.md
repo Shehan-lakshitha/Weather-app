@@ -19,6 +19,13 @@ https://github.com/Shehan-lakshitha/Weather-app.git
 ## Authors
 
 - [Shehan Lakshitha](https://github.com/Shehan-lakshitha)
+- [Hashara Pilapitiya](https://github.com/Hashara-Pilapitiya)
 
+## Contributions
+All contributions are kindly welcome.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
